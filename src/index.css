@@ -5,7 +5,7 @@
 
 
 .input {
-    @apply w-full p-[2cqw] rounded-[1cqw] md:p-[1cqw] md:rounded-[0.6cqw] border-gray-400 border-[0.1cqw] md:border-[0.07cqw] outline-none border-opacity-20 mt-[1cqw] md:mt-[0.5cqw];
+    @apply w-full p-[2cqw] rounded-[1cqw] md:p-[1cqw] md:rounded-[0.6cqw] border-gray-400 border-[0.3cqw] md:border-[0.07cqw] outline-none border-opacity-20 mt-[1cqw] md:mt-[0.5cqw] ;
 }
 
 .error-text {

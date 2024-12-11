@@ -75,7 +75,7 @@ function RightSection() {
             onSubmit={handleSubmit}
             className="flex flex-col gap-[3cqw] md:gap-[1.4cqw] pt-[6cqw] md:pt-[1.8cqw] text-[16px] md:text-[0.95cqw] font-[400] text-darkBlue font-inter"
           >
-            <div className="grid md:grid-cols-2 gap-[3cqw] md:gap-[1.4cqw]">
+            <div className="grid md:grid-cols-2 gap-[4cqw] md:gap-[1.4cqw]">
               <FormInput
                 label="Full Name *"
                 name="fullName"
